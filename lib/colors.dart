@@ -17,6 +17,7 @@ class MyColor {
   static const whiteColor = Color(0xFFFFFFFF);
   static const bgColor = Color(0xFF0f223d);
   static const skyBlueColor = Color(0xFF1aa2f0);
+  static const back = Color(0xFF143256);
   static const blueLight = Color(0xFF143255);
   static const bulletsColor = Color(0xFF6a7e99);
   static const blueLine = Color(0xFF193b62);
